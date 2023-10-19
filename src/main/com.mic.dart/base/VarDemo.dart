@@ -29,8 +29,7 @@ void doFinal(){
 }
 
 void defaultValue(){
-  int lineCount;
-  assert(lineCount==null);
+  int lineCount=0;
   print(lineCount);
 }
 
